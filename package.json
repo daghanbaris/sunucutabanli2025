@@ -1,0 +1,22 @@
+{
+  "name": "sunucutabanli2025",
+  "version": "1.0.0",
+  "description": "sunucutabanli2025deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daghanbaris/sunucutabanli2025.git"
+  },
+  "keywords": [
+    "sunucuders"
+  ],
+  "author": "daghanbaris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daghanbaris/sunucutabanli2025/issues"
+  },
+  "homepage": "https://github.com/daghanbaris/sunucutabanli2025#readme"
+}
