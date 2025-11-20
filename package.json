@@ -1,26 +1,17 @@
 {
-  "name": "sunucutabanli2025",
+  "name": "sunucu2026",
   "version": "1.0.0",
-  "description": "sunucutabanli2025deneme",
-  "main": "index.js",
+  "description": "Sunucu Tabanlı Programlama Dersi 2026",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/daghanbaris/sunucutabanli2025.git"
-  },
-  "keywords": [
-    "sunucuders"
-  ],
-  "author": "daghanbaris",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/daghanbaris/sunucutabanli2025/issues"
-  },
-  "homepage": "https://github.com/daghanbaris/sunucutabanli2025#readme",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }

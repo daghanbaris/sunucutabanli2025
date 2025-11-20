@@ -1,2 +1,2 @@
-# sunucutabanli2025
-sunucutabanli2025deneme
+# sunucu2026
+Sunucu Tabanlı Programlama Dersi 2026
